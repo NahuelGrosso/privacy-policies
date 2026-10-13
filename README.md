@@ -5,7 +5,7 @@ Este repositorio contiene las políticas de privacidad de las aplicaciones desar
 ## Aplicaciones
 
 - DescongelApp
-- (Próximamente) RAVet
+- RAVet
 
 ## Contacto
 
